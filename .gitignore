@@ -1,0 +1,22 @@
+# secrets
+.env
+main.js
+
+# local environment
+.venv/
+__pycache__/
+
+# collected data and runtime output
+recorded/
+mints/
+analyzed/
+graph/
+paper_trades.jsonl
+run.log
+run.pid
+backfill.log
+
+# personal files from the first prototype (wallet addresses)
+tx.json
+mint.json
+wallet_reputation.json
